@@ -1,0 +1,12 @@
+buckwalter2unicode - v0.2 - Chagelog
+
+Version 0.2:
+
+ - Added `ignore lines' feature.
+ - Added functionality to transliterate according to column range.
+ - Added support for user-defined column delimiters.
+ - Readme.txt was extended to reflect updates in features.
+
+Version 0.1:
+
+ - Initial release.
